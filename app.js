@@ -20,7 +20,7 @@ function profitandloss(intial,quantity,current)
 
     }
     else{
-        showOutput(`No pain no gain no gain no pain`);
+        showOutput(`No pain no gain No gain no pain`);
     }
 }
 submitButton.addEventListener('click', submitHandler);
